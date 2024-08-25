@@ -1,2 +1,2 @@
-# coinflipgamebsc
-Coin Flip game full source
+Coin Flip Game Task
+
